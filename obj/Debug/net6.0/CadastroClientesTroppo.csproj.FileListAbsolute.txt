@@ -1,0 +1,15 @@
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\bin\Debug\net6.0\CadastroClientesTroppo.exe
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\bin\Debug\net6.0\CadastroClientesTroppo.deps.json
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\bin\Debug\net6.0\CadastroClientesTroppo.runtimeconfig.json
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\bin\Debug\net6.0\CadastroClientesTroppo.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\bin\Debug\net6.0\CadastroClientesTroppo.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.csproj.AssemblyReference.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.AssemblyInfoInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.AssemblyInfo.cs
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.csproj.CoreCompileInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\refint\CadastroClientesTroppo.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\CadastroClientesTroppo.genruntimeconfig.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 12\SA2\Encontro Remoto 2\CadastroClientesTroppo\obj\Debug\net6.0\ref\CadastroClientesTroppo.dll

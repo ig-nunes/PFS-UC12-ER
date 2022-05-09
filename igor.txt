@@ -1,0 +1,16 @@
+
+- Nome: igor
+- CPF: 5555555555555555555
+- Data de Nascimento: 01/01/2000
+- Maior de Idade: Sim
+- Rendimento: R$ 50.000,00  
+- Taxa a ser paga como imposto: R$ 2.500,00
+- Endereço:
+    CEP: 2222222222222
+    Rua: Rua Maroto
+    Complemento: 10
+    Bairro: Maroto
+    Cidade: Rio de Janeiro
+    Estado: RJ
+    Endereço é comercial? Não
+                        

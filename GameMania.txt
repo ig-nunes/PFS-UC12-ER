@@ -1,0 +1,13 @@
+
+- Nome: GameMania
+- CNPJ: 00.000.000/0001-00
+- Razão Social: aaaaaaaaaaaaaaaa
+- Rendimento: R$ 100.000.000,00
+- Endereço:
+    CEP: 222222222
+    Rua: Rua b
+    Complemento: 10
+    Bairro: Catete
+    Cidade: Rio de Janeiro
+    Estado: RJ
+                        
