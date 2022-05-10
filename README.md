@@ -78,8 +78,8 @@ algum tipo de variável tenha sido tratados, podendo resultar no erro da aplica�
 
 ---
 
-## Contribuintes
+## Contribuinte(s)
 
-- Igor Nunes, estudante de Engenharia da Computação e desenvolvedor full-stack.
+- Igor Nunes, estudante de Engenharia da Computação.
 
  ---
